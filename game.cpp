@@ -40,7 +40,7 @@ bool Game::checkInput(int ch, string s){
     while(getline(f, buffer)){
         c.chapter = buffer[0] - '0';
         c.input = buffer.substr(4, buffer.find('\n'));
-        if(c.chapter == ch && s.compare(c.input) == 0){ //here's the problematic line :(
+        if(c.chapter == ch && s.compare(c.input) == 0){
             f.close();
             return true;
         }
