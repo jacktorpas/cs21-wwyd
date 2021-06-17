@@ -2,7 +2,7 @@
 #define FILEINIT_H
 
 //------------------------------------
-//creation of struct for random-access
+
 struct Choices {
     int chapter;
     int branch;
@@ -11,9 +11,9 @@ struct Choices {
 
 class Files {
     public:
-        bool completed;
         void createFiles();
         void tracker();
+        void chronicler(std::string s);
 };
 
 //------------------------------------
