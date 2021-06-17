@@ -1,0 +1,186 @@
+1 0 pick file
+1 0 grab file
+1 0 take file
+1 0 obtain file
+1 0 get file
+1 0 open file
+1 0 take case file
+1 0 grab file
+1 0 pick case file
+1 0 grab case file
+1 0 obtain case file
+1 0 get case file
+1 0 open case file
+1 0 grab case file
+2 0 pick cd
+2 0 pick disc
+2 0 pick CD
+2 0 play cd
+2 0 play disc
+2 0 play CD
+2 0 watch cd
+2 0 watch disc
+2 0 watch CD
+2 0 pick compact disc
+2 0 play compact disc
+2 0 watch compact disc
+3 0 click result
+3 0 click summary
+3 0 read result
+3 0 read summary
+4 0 investigate case
+4 0 examine case
+5 1 call parents
+5 1 call her parents
+5 1 ask parents
+5 1 ask her parents
+5 2 google her name
+5 2 google name
+5 2 google Elisa Lam
+5 2 google Elisa
+5 2 search name
+5 2 search Elisa Lam
+5 2 search Elisa
+5 2 google
+5 2 search online
+5 2 search
+6 0 open file
+6 0 open medical history
+6 0 check file
+6 0 check medical history
+6 0 read file
+6 0 read medical history
+7 0 get up
+7 0 stand up
+7 0 look for Elisa
+7 0 search for Elisa
+7 0 look for Elisa Lam
+7 0 search for Elisa Lam
+7 0 start looking
+7 0 start looking for Elisa
+8 1 go to Cecil Hotel
+8 1 go to Cecil
+8 1 go to the Cecil Hotel
+8 1 go to the Cecil
+8 1 go to the hotel
+8 1 go to hotel
+8 2 go to the bookstore
+8 2 go to the last bookstore
+8 2 go to bookstore
+8 2 go to last bookstore
+49 1 go to Cecil Hotel
+49 1 go to Cecil
+49 1 go to the Cecil Hotel
+49 1 go to the Cecil
+49 1 go to the hotel
+49 1 go to hotel
+50 2 go to the bookstore
+50 2 go to the last bookstore
+50 2 go to bookstore
+50 2 go to last bookstore
+10 0 press 5
+10 0 press button 5
+10 0 go to floor 5
+10 0 5
+10 0 button 5
+10 0 to 5
+10 0 press five
+10 0 press button five
+10 0 go to floor five
+10 0 five
+10 0 button five
+10 0 to five
+10 0 press 5th floor
+10 0 go to 5th floor
+10 0 5th floor
+10 0 to 5th floor
+11 1 take medicine bottle
+11 1 take medicine bottles
+11 1 take bottle
+11 1 take bottles
+11 1 examine medicine bottle
+11 1 examine bottle
+11 1 grab medicine bottle
+11 1 grab bottle
+11 1 examine medicine bottles
+11 1 examine bottles
+11 1 grab medicine bottles
+11 1 grab bottles
+11 2 take cellphone
+11 2 take phone
+11 2 examine cellphone
+11 2 examine phone
+11 2 grab cellphone
+11 2 grab phone
+12 0 0430
+12 0 type 0430
+12 0 enter 0430
+19 1 go to Cecil Hotel
+19 1 go to Cecil
+19 1 go to the Cecil Hotel
+19 1 go to the Cecil
+19 1 go to the hotel
+19 1 go to hotel
+19 2 go to skid row
+19 2 go to the skid row
+51 1 go to Cecil Hotel
+51 1 go to Cecil
+51 1 go to the Cecil Hotel
+51 1 go to the Cecil
+51 1 go to the hotel
+51 1 go to hotel
+52 2 go to skid row
+52 2 go to the skid row
+20 1 take business card
+20 1 take card
+20 1 examine business card
+20 1 examine card
+20 1 grab business card
+20 1 grab card
+20 2 take cellphone
+20 2 take phone
+20 2 examine cellphone
+20 2 examine phone
+20 2 grab cellphone
+20 2 grab phone
+13 0 answer phone
+13 0 answer the phone
+13 0 phone
+13 0 answer
+14 1 talk to the hotel manager
+14 1 talk to hotel manager
+14 1 talk to the manager
+14 1 talk to manager
+14 1 manager
+14 2 talk to the janitor
+14 2 talk to janitor
+14 2 janitor
+14 3 talk to the tenant
+14 3 talk to tenant
+14 3 tenant
+15 1 accept offer
+15 1 accept
+15 2 refuse offer
+15 2 refuse
+16 0 request autopsy report
+16 0 request report
+16 0 request autopsy
+17 0 go to the storage room
+17 0 go to storage room
+17 0 go to room
+17 0 storage room
+17 0 examine Elisa’s body
+17 0 examine body
+17 0 Elisa’s body
+17 0 body
+18 1 chase him
+18 1 chase the person
+18 1 chase the guy
+18 1 chase person
+18 1 chase guy
+18 1 chase
+18 2 continue
+18 2 continue examination
+18 2 continue examine
+18 2 examine Elisa’s body
+18 2 examine body
