@@ -4,7 +4,8 @@
 //---------------------------
 
 void openingMessage();
-void anotherMsg();
+void warning();
+void closingMessage();
 
 //---------------------------
 
