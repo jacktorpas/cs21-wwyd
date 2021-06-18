@@ -8,7 +8,7 @@ void openingMessage(){
     cout << "\n---------------------------------\n";
     cout << "A console-based mystery/thriller game that is played by entering simple verb-noun commands. Depending on what\n";
     cout << "you choose to do, the story will have a different ending.\n\n";
-    cout << "Coded by Justin; story by Ec, Gel, and Charles :)\n\n";
+    cout << "Coded by Justin; story by Gel, and QA-tested by Ec and Charles :)\n\n";
     cout << "Press ENTER to continue...\n";
     cin.get();
 }
@@ -25,7 +25,7 @@ void closingMessage(){
     cout << "Thank you for playing \"The Mysterious Case of Elisa Lam\". If that's not the ending you want, you may\n";
     cout << "want to replay it and try different approaches. Your text inputs have been stored in inputs.txt and tracker.txt tells\n";
     cout << "how many times you've played this story.\n\n";
-    cout << "CREDITS:\n\nJustin - Code\nEc, Gel, and Charles - Story\n";
+    cout << "CREDITS:\n\nJustin - Code\nGel - Story\nEc and Charles - QA Testing\n\n";
     cout << "Press ENTER to exit...\n";
     cin.get();
 }
