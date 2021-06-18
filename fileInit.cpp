@@ -59,12 +59,17 @@ void Files::createFiles(){
     }
 
     //CHAPTER 4
-    Choices c4[2];
-    c4[0].chapter = 4; c4[1].chapter = 4;
-    c4[0].branch = 0; c4[1].branch = 0;
+    Choices c4[4];
+    /*c4[0].chapter = 4; c4[1].chapter = 4;
+    c4[0].branch = 0; c4[1].branch = 0;*/
+    for(int i = 0; i < 4; i++){
+        c4[i].chapter = 4;
+        c4[i].branch = 0;
+    }
     c4[0].input = "investigate case"; c4[1].input = "examine case";
+    c4[2].input = "investigate"; c4[3].input = "examine";
 
-    for(int i = 0; i < 2; i++){
+    for(int i = 0; i < 4; i++){
         file << c4[i].chapter << " " << c4[i].branch << " " << c4[i].input << '\n';
     }
 
