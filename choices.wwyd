@@ -30,6 +30,8 @@
 3 0 read summary
 4 0 investigate case
 4 0 examine case
+4 0 investigate
+4 0 examine
 5 1 call parents
 5 1 call her parents
 5 1 ask parents
