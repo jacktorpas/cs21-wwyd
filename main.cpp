@@ -49,7 +49,8 @@ int main(){
                 _1ChapterN("Cecil Hotel");
                 do{
                     g.input = g.acceptInput();
-                }while(!g.checkInput('2', g.input));                
+                }while(!g.checkInput('2', g.input));
+                _1Chapter9A();               
                 break;
             case 2:
                 _1Chapter9A();
@@ -57,6 +58,7 @@ int main(){
                 do{
                     g.input = g.acceptInput();
                 }while(!g.checkInput('1', g.input));
+                _1Chapter9B();
                 break;
         }
         f.chronicler(g.input);
@@ -112,14 +114,16 @@ int main(){
                 _2ChapterN("Cecil Hotel");
                 do{
                     g.input = g.acceptInput();
-                }while(!g.checkInput('4', g.input));                
+                }while(!g.checkInput('4', g.input));
+                _2Chapter8B();                
                 break;
             case 2:
                 _2Chapter8B();
                 _2ChapterN("Skid Row");
                 do{
                     g.input = g.acceptInput();
-                }while(!g.checkInput('3', g.input));                
+                }while(!g.checkInput('3', g.input));
+                _1Chapter9B();                
                 break;
         }
         f.chronicler(g.input);
